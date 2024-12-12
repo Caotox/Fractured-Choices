@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":621,"scrollY":465,"quick":false},
+{"id":2,"expanded":true,"name":"Village d'Apotheosis","order":17,"parentId":1,"scrollX":579,"scrollY":362,"quick":false},
+{"id":3,"expanded":true,"name":"Entrée Chateau","order":2,"parentId":1,"scrollX":571,"scrollY":353,"quick":false},
+{"id":4,"expanded":true,"name":"Boutique consommables","order":19,"parentId":2,"scrollX":928.5,"scrollY":522.75,"quick":false},
+{"id":5,"expanded":false,"name":"Boutique équipements","order":18,"parentId":2,"scrollX":0,"scrollY":0,"quick":false},
+{"id":6,"expanded":true,"name":"Village de l'épée","order":3,"parentId":3,"scrollX":571,"scrollY":358,"quick":false},
+{"id":7,"expanded":true,"name":"Campement de monstres","order":6,"parentId":6,"scrollX":0,"scrollY":0,"quick":false},
+{"id":8,"expanded":true,"name":"Village de l'épée : Prairie","order":4,"parentId":6,"scrollX":0,"scrollY":0,"quick":false},
+{"id":9,"expanded":true,"name":"Village de l'épée : Bibliothèque","order":5,"parentId":6,"scrollX":825.3333333333334,"scrollY":464.6666666666667,"quick":false},
+{"id":10,"expanded":true,"name":"Entrée Cité de Klein","order":7,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":11,"expanded":true,"name":"Cité de Klein : Coeur","order":8,"parentId":10,"scrollX":579,"scrollY":358,"quick":false},
+{"id":12,"expanded":true,"name":"Mairie de Klein","order":9,"parentId":11,"scrollX":571,"scrollY":353,"quick":false},
+{"id":13,"expanded":true,"name":"Bureau de Himmel : Klein","order":10,"parentId":12,"scrollX":0,"scrollY":0,"quick":false},
+{"id":14,"expanded":true,"name":"Sortie Mairie de Klein","order":11,"parentId":12,"scrollX":571,"scrollY":353,"quick":false},
+{"id":15,"expanded":false,"name":"Salle de téléportation","order":20,"parentId":2,"scrollX":571,"scrollY":353,"quick":false},
+{"id":16,"expanded":true,"name":"Map 1 : Quête 2","order":12,"parentId":14,"scrollX":0,"scrollY":0,"quick":false},
+{"id":17,"expanded":true,"name":"Map 2 : Quête 2","order":13,"parentId":16,"scrollX":0,"scrollY":0,"quick":false},
+{"id":18,"expanded":false,"name":"Salle des oubliés","order":14,"parentId":17,"scrollX":0,"scrollY":0,"quick":false},
+{"id":19,"expanded":false,"name":"Salle de Boss","order":15,"parentId":17,"scrollX":0,"scrollY":0,"quick":false},
+{"id":20,"expanded":false,"name":"Map Annexe","order":16,"parentId":17,"scrollX":0,"scrollY":0,"quick":false}
+]
