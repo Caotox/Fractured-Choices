@@ -9,7 +9,8 @@ git clone https://github.com/Caotox/RPG-Game-Project
 # 2. Install RPG Maker MZ
 You may need to pay for that.
 
-# 3. Launch RPG Maker MZ and click "Open Project", then Select the .mz file
+# 3. Launch RPG Maker MZ
+Then, click "Open Project", and select the .mz file
 
 # 4. You're Good to Go! 
 Please note that:
