@@ -1,4 +1,4 @@
-# RPG-Game-Project : No-Name-Project
+# RPG-Game-Project : RPG Maker MZ
 
 How to See My RPG Maker MZ Game Project
 
